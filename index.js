@@ -1,6 +1,6 @@
-function add(x, y) {
-  result ${x} + ${y}
+function add() {
 }
 function subtract() {
-
 }
+function multiply() {}
+function divide() {}
