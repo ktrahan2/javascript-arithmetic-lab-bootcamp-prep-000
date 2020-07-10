@@ -19,3 +19,6 @@ function divide(a, b) {
 function increment(number) {
   return number + 1
 }
+function decrement(number) {
+  return number - 1
+}
